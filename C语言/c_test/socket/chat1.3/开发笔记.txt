@@ -1,0 +1,5 @@
+
+
+
+
+开发笔记 ：向select 中添加已经关闭的socket，那么select会认为socket 一直处于就绪状态

@@ -1,0 +1,22 @@
+Disk sectors
+Units: 512
+Sector bytes
+I/O bytes
+Disklabel 
+Disk 
+ 
+Device Type
+/dev/sda1 Linux
+/dev/sda2 
+/dev/sda5 swap
+ 
+ 
+Disk sectors
+Units: 512
+Sector bytes
+I/O bytes
+Disklabel 
+Disk 
+ 
+Device Type
+/dev/sdb1 HPFS/NTFS/exFAT
